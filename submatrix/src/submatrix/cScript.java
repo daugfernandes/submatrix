@@ -143,8 +143,8 @@ public class cScript {
     }
 
     /**
-     * Adiciona instrucção ao programa
-     * @param p_order - ordem da instrucção
+     * Adiciona instrução ao programa
+     * @param p_order - ordem da instrução
      * @param p_command - comando
      * @return - indicador de sucesso da adição. Ordens repetidas invalidam a
      * adição.
@@ -158,9 +158,9 @@ public class cScript {
     }
 
     /**
-     * Executa a instrucção actual e actualiza a instrucção a executar de
+     * Executa a instrução actual e actualiza a instrução a executar de
      * seguida
-     * @param _game - jogo sobre o qual se vai executar a instrucção
+     * @param _game - jogo sobre o qual se vai executar a instrução
      * @return Indicador do sucesso da execução
      */
     public boolean stepRun(cGame _game) {
