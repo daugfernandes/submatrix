@@ -165,6 +165,7 @@ public class cScript {
      */
     public boolean stepRun(cGame _game) {
         // todo: implementar
+
         return true;
     }
 
